@@ -11,3 +11,9 @@ def qian():
 def sdf(q):
 
     print(q,'sdf')
+
+
+def ssdfdf():
+
+    print('sdfasd')
+
